@@ -1,3 +1,4 @@
+# Из шаблонных файлов в папке dir_res собирает все файлы и значения из них суммирует в главный файл file_template_xl
 # ...
 # INSTALL
 # pip install openpyxl
