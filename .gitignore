@@ -1,10 +1,4 @@
+/.idea/
 /res/
 /шаблон/
-/Таблица по нарушениям.xlsx
-/ШАБЛОН Таблица по нарушениям.xlsx
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/table_narush.iml
-/.idea/vcs.xml
+/*.xlsx
